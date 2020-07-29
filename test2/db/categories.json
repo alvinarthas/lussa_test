@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "5ee71f17bab80f74f7de5ed2"
+  },
+  "name": "Peralatan Rumah",
+  "slug": "peralatan-rumah",
+  "description": "",
+  "icon": "eat.jpg"
+},{
+  "_id": {
+    "$oid": "5ee71f27bab80f74f7de5ed3"
+  },
+  "name": "Teknologi",
+  "slug": "teknologi",
+  "description": "desc about teknologi",
+  "icon": "tek.jpg"
+},{
+  "_id": {
+    "$oid": "5ee71f41bab80f74f7de5ed4"
+  },
+  "name": "Gadget",
+  "slug": "gadget",
+  "description": "",
+  "icon": "gadget.jpg"
+}]

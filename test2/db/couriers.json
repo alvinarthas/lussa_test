@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "5f14ff64e11a445b2a76b74f"
+  },
+  "name": "JNE",
+  "avatar": "https://www.linkImage.com/daskdlaksdlsakdas",
+  "slug": "jne",
+  "description": "courier JNE",
+  "cost": 10000
+},{
+  "_id": {
+    "$oid": "5f1500f4e11a445b2a76b750"
+  },
+  "name": "Tiki",
+  "avatar": "https://www.linkImage.com/daskdlaksdlsakdas",
+  "slug": "tiki",
+  "description": "courier Tiki",
+  "cost": 5000
+},{
+  "_id": {
+    "$oid": "5f1500ffe11a445b2a76b751"
+  },
+  "name": "Si Cepat",
+  "avatar": "https://www.linkImage.com/daskdlaksdlsakdas",
+  "slug": "si-cepat",
+  "description": "courier si cepat",
+  "cost": 50000
+}]

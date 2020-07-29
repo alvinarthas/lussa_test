@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "5ee987694f5a8e49e0b4d049"
+  },
+  "name": "Teflon",
+  "slug": "teflon",
+  "description": "teflon",
+  "condition": 0,
+  "price": 100000,
+  "initial_stock": 10,
+  "weight": 2,
+  "store": "gshop",
+  "category": "peralatan-rumah"
+},{
+  "_id": {
+    "$oid": "5ee987ae4f5a8e49e0b4d04b"
+  },
+  "name": "Iphone X",
+  "slug": "iphone-x",
+  "description": "Desc Product Iphone X",
+  "condition": 1,
+  "price": 50000,
+  "initial_stock": 10,
+  "weight": 0,
+  "category": "gadget",
+  "store": "gshop"
+},{
+  "_id": {
+    "$oid": "5f151266e11a445b2a76b753"
+  },
+  "name": "Lampu 5 watt",
+  "slug": "lampu-5-watt",
+  "description": "lampu 5 watt",
+  "condition": 1,
+  "price": 25000,
+  "initial_stock": 10,
+  "weight": 2,
+  "category": "teknologi",
+  "store": "gshop"
+}]

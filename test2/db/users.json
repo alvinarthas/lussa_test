@@ -1,0 +1,156 @@
+[{
+  "_id": {
+    "$oid": "5ee8d92f45e92ee8ad0fe34e"
+  },
+  "user_name": "testadmin",
+  "full_name": "Test Admin",
+  "email": "admin@test.com",
+  "password": "$2a$14$R65F6itme3bJ7uK.akesd.ndLWp2wpwpqvWQ4FIjjEPsHJ0NITlIG",
+  "social_id": "",
+  "provider": "",
+  "avatar": "",
+  "role": 1,
+  "have_store": 0,
+  "is_active": 1,
+  "verification_token": "e94e8800f918a9ca0e7baee211d7a3f47ca00cd7d0f20aa34fa20f6d55236181de58b6cac5216195a09eb7eeb52d62217725",
+  "createddate": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "lastupdate": {
+    "$timestamp": {
+      "t": 0,
+      "i": 0
+    }
+  },
+  "store": {
+    "name": "",
+    "user_name": "",
+    "address": "",
+    "email": "",
+    "phone": "",
+    "avatar": "",
+    "verification_token": "",
+    "products": []
+  }
+},{
+  "_id": {
+    "$oid": "5ee8d93f45e92ee8ad0fe34f"
+  },
+  "user_name": "alvinarthas",
+  "full_name": "<nil>",
+  "email": "khairalvin@gmail.com",
+  "password": "",
+  "social_id": "28726294",
+  "provider": "github",
+  "avatar": "https://avatars3.githubusercontent.com/u/28726294?v=4",
+  "role": 0,
+  "have_store": 1,
+  "is_active": 1,
+  "verification_token": "1b7fa3c382d855a5f418694e93f3ef564cb549ebefa9f91d6705b37b2c39ef52839be821943766cd3565de800f3f4fb460ac",
+  "createddate": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "lastupdate": {
+    "$timestamp": {
+      "t": 0,
+      "i": 0
+    }
+  },
+  "store": {
+    "name": "G-Shop",
+    "user_name": "gshop",
+    "address": "jl abadi nomor 00",
+    "email": "gshop@online.com",
+    "phone": "0129321098312312",
+    "avatar": "texttext",
+    "verification_token": "5e6f8e8dc85decb5ef3db70930d2ef1b1002d9dffe59c6daa91ab7cdc4d3429c0b501946d49dfd32350e8755efa4cf187251",
+    "products": [
+      {
+        "$oid": "5ee987694f5a8e49e0b4d049"
+      },
+      {
+        "$oid": "5ee987ae4f5a8e49e0b4d04b"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "5f15125ae11a445b2a76b752"
+  },
+  "user_name": "alvinarthas",
+  "full_name": "Alvin Khair",
+  "email": "khairalvin@gmail.com",
+  "password": "",
+  "social_id": "28726294",
+  "provider": "github",
+  "avatar": "https://avatars3.githubusercontent.com/u/28726294?v=4",
+  "role": 0,
+  "have_store": 0,
+  "is_active": 0,
+  "verification_token": "967ec7fc5e281b0fd8524ff17404a03168db76ed9c7e573e9f98773d16512293eb568e39b8e2788905dc1fd91658411ab607",
+  "createddate": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "lastupdate": {
+    "$timestamp": {
+      "t": 0,
+      "i": 0
+    }
+  },
+  "store": {
+    "name": "",
+    "user_name": "",
+    "address": "",
+    "email": "",
+    "phone": "",
+    "avatar": "",
+    "verification_token": "",
+    "products": [
+      {
+        "$oid": "5f151266e11a445b2a76b753"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "5f20dac5dab2882f53d9b119"
+  },
+  "user_name": "testuser",
+  "full_name": "Test User",
+  "email": "user@test.com",
+  "password": "$2a$14$v2LgYGEnRaprpWABIQtNt.jqB/lcthgUXGLYe.hvLk.TlvM.SuCAK",
+  "social_id": "",
+  "provider": "",
+  "avatar": "",
+  "role": 0,
+  "have_store": 0,
+  "is_active": 1,
+  "verification_token": "599aabec4b21f3ec819c223fbd8dfbb253506bf19e96b6acd702f384ea12694d3666a1ff25c199c266e4e7ddfb7471fcd1f1",
+  "createddate": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "lastupdate": {
+    "$timestamp": {
+      "t": 0,
+      "i": 0
+    }
+  },
+  "store": {
+    "name": "",
+    "user_name": "",
+    "address": "",
+    "email": "",
+    "phone": "",
+    "avatar": "",
+    "verification_token": "",
+    "products": []
+  }
+}]
